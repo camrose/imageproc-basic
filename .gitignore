@@ -1,0 +1,12 @@
+*.pyc
+*.mcw
+*.o
+*.hex
+*.map
+*.cof
+build
+dist
+debug
+nbproject/private
+nbproject/Makefile*
+nbproject/Package-default.bash
