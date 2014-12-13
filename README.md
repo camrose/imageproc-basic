@@ -3,6 +3,9 @@ imageproc-basic
 
 Basic IDE project for an ImageProc 2.5 board.
 
+Current build status: [![Build Status](https://travis-ci.org/biomimetics/imageproc-basic.svg?branch=autobuild)](https://travis-ci.org/biomimetics/imageproc-basic)
+	(built against biomimetics/imageproc-lib 'master')
+
 Only the bare minimum of chip setup is done is done:
 - Core clock and PLL to 40 Mhz Xtal
 - Set GPIO modes and defaults on pins
